@@ -1,0 +1,7 @@
+Steps to install DB Visualizer
+
+1. install db vis but don't open
+2. Go into crack folder
+3. Patch it with admin rights
+4. it would ask for dbvis.jar and point it where dbvisualiser installed /lib/dbvis.jar
+5. then .patch after that .gen
